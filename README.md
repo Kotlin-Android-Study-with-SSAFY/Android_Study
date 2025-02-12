@@ -39,16 +39,16 @@ fun main() {
 ## 진행도
 
 ### **1주차 : 안드로이드 기본 개념 & 컴포넌트 (2025.02.26)**
-1. 안드로이드 4대 컴포넌트(Activity, Service, BroadcastReceiver, ContentProvider)
-2. 4대 컴포넌트 + Fragment 생명주기
-3. Intent & Intent Filter
-4. Context와 ApplicationContext & Manifest와 Permissions 개념
+1. 안드로이드 4대 컴포넌트(Activity, Service, BroadcastReceiver, ContentProvider) **(박성준)**
+2. 4대 컴포넌트 + Fragment 생명주기 **(박승준)**
+3. Intent & Intent Filter **(오인성)**
+4. Context와 ApplicationContext & Manifest와 Permissions 개념 **(김성민)**
 
 ### **2주차 : UI 및 레이아웃 (2025.02.26)**
-1. Jetpack Compose 개념 및 비교 (XML vs Compose)
-2. ConstraintLayout, LinearLayout, RelativeLayout 비교
-3. RecyclerView와 ListView 그리고 RecyclerView 최적화
-4. ViewBinding & DataBinding 
+1. Jetpack Compose 개념 및 비교 (XML vs Compose) **(오인성)**
+2. ConstraintLayout, LinearLayout, RelativeLayout 비교 **(박성준)**
+3. RecyclerView와 ListView 그리고 RecyclerView 최적화 **(박승준)**
+4. ViewBinding & DataBinding **(김성민)**
 
 ### **3주차 : Jetpack 라이브러리 심화 (2025.03.05)**
 1. Navigation Component 활용

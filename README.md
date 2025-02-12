@@ -1,5 +1,26 @@
 # Android_Study
 
+## 멤버
+- 오인성
+- 박승준
+- 박성준
+- 김성민
+
+## 주차마다 맡을 part 정하는 랜덤함수
+```kotlin
+import kotlin.random.Random
+
+fun main() {
+    val names = listOf("오인성", "박승준", "박성준", "김성민")
+    val numbers = (1..4).shuffled(Random)
+    
+    names.zip(numbers).forEach { (name, number) ->
+        println("\$name -> \$number")
+    }
+}
+
+```
+
 ## 진행 방식
 - 주 1회 2시간
 - 매주 각자 인원에게 할당된 주제를 공부 (아래 예상 진행도 참고)

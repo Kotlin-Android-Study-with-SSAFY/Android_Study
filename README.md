@@ -15,7 +15,7 @@ fun main() {
     val numbers = (1..4).shuffled(Random)
     
     names.zip(numbers).forEach { (name, number) ->
-        println("\$name -> \$number")
+        println("$name -> $number")
     }
 }
 

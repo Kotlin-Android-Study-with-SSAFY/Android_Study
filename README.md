@@ -109,9 +109,3 @@ fun main() {
 2. GitHub Actions 기반 CI/CD 자동화
 3. Firebase App Distribution
 4. Play Store 배포 과정 및 Best Practice
-
-## Q&A
-- Why? 안드로이드 공식문서? ⇒ 안드로이드는 트렌드가 가장 빠른 기술 중 하나로 시중에 책들이 이러한 트렌드를 따라오지 못하고 있습니다. 그래서 가장 신뢰성이 있는 것은 공식문서 입니다.
-
-## 참고자료
-- 안드로이드 공식문서와 구글을 통해서 양질의 블로그를 참고하는 것을 추천합니다.

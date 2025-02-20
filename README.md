@@ -41,7 +41,7 @@ fun main() {
 ### **1주차 : 안드로이드 기본 개념 & 컴포넌트 (2025.02.26)**
 1. 안드로이드 4대 컴포넌트(Activity, Service, BroadcastReceiver, ContentProvider) **(박성준)**
 2. 4대 컴포넌트 + Fragment 생명주기 **(박승준)**
-3. Intent & Intent Filter **(오인성)**
+3. [Intent & Intent Filter](https://superohinsung.tistory.com/100) **(오인성)**
 4. Context와 ApplicationContext & Manifest와 Permissions 개념 **(김성민)**
 
 ### **2주차 : UI 및 레이아웃 (2025.02.26)**

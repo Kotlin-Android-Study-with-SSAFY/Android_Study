@@ -45,7 +45,7 @@ fun main() {
 4. Context와 ApplicationContext & Manifest와 Permissions 개념 **(김성민)**
 
 ### **2주차 : UI 및 레이아웃 (2025.02.26)**
-1. Jetpack Compose 개념 및 비교 (XML vs Compose) **(오인성)**
+1. [Jetpack Compose 개념 및 비교 (XML vs Compose)](https://superohinsung.tistory.com/376) **(오인성)**
 2. ConstraintLayout, LinearLayout, RelativeLayout 비교 **(박성준)**
 3. RecyclerView와 ListView 그리고 RecyclerView 최적화 **(박승준)**
 4. ViewBinding & DataBinding **(김성민)**

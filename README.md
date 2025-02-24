@@ -42,13 +42,13 @@ fun main() {
 1. 안드로이드 4대 컴포넌트(Activity, Service, BroadcastReceiver, ContentProvider) https://quartz-durian-a00.notion.site/4-1a17ecadafa1804881aee3e9a4234d04?pvs=4    **(박성준)**
 2. 4대 컴포넌트 + Fragment 생명주기 **(박승준)**
 3. [Intent & Intent Filter](https://superohinsung.tistory.com/100) **(오인성)**
-4. Context와 ApplicationContext & Manifest와 Permissions 개념 **(김성민)**
+4. [Context와 ApplicationContext & Manifest와 Permissions 개념](https://carbonated-raptorex-0ab.notion.site/1-4-Context-ApplicationContext-Manifest-Permissions-1a3446854ab980568da7d11fbcc8d905) **(김성민)**
 
 ### **2주차 : UI 및 레이아웃 (2025.02.26)**
 1. [Jetpack Compose 개념 및 비교 (XML vs Compose)](https://superohinsung.tistory.com/376) **(오인성)**
 2. ConstraintLayout, LinearLayout, RelativeLayout 비교 **(박성준)**
 3. RecyclerView와 ListView 그리고 RecyclerView 최적화 **(박승준)**
-4. ViewBinding & DataBinding **(김성민)**
+4. [ViewBinding & DataBinding](https://carbonated-raptorex-0ab.notion.site/2-4-ViewBinding-DataBinding-1a3446854ab98096bd8ec96da3e82850) **(김성민)**
 
 ### **3주차 : Jetpack 라이브러리 심화 (2025.03.05)**
 1. Navigation Component 활용

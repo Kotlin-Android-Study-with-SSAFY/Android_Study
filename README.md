@@ -40,7 +40,7 @@ fun main() {
 
 ### **1주차 : 안드로이드 기본 개념 & 컴포넌트 (2025.02.26)**
 1. [안드로이드 4대 컴포넌트(Activity, Service, BroadcastReceiver, ContentProvider)](https://quartz-durian-a00.notion.site/4-1a17ecadafa1804881aee3e9a4234d04?pvs=4)    **(박성준)**
-2. 4대 컴포넌트 + Fragment 생명주기 **(박승준)**
+2. [Fragment 생명주기](https://www.notion.so/Fragment-Lifecycle-1a3c13dbbe2c802d840be500b996ea80?pvs=4) **(박승준)**
 3. [Intent & Intent Filter](https://superohinsung.tistory.com/100) **(오인성)**
 4. [Context와 ApplicationContext & Manifest와 Permissions 개념](https://carbonated-raptorex-0ab.notion.site/1-4-Context-ApplicationContext-Manifest-Permissions-1a3446854ab980568da7d11fbcc8d905) **(김성민)**
 

@@ -51,10 +51,10 @@ fun main() {
 4. [ViewBinding & DataBinding](https://carbonated-raptorex-0ab.notion.site/2-4-ViewBinding-DataBinding-1a3446854ab98096bd8ec96da3e82850) **(김성민)**
 
 ### **3주차 : Jetpack 라이브러리 심화 (2025.03.05)**
-1. Navigation Component 활용
-2. Paging3
-3. ViewModel 활용 및 Lifecycle 관리
-4. WorkManager 활용
+1. Navigation Component 활용 **(김성민)**
+2. Paging3 **(박성준)**
+3. ViewModel 활용 및 Lifecycle 관리 **(오인성)**
+4. WorkManager 활용 **(박승준)**
 
 ### **4주차 : 네트워크 & API 통신 (2025.03.12)**
 1. Ktor & Retrofit2 & OkHttp 기본 개념 및 활용

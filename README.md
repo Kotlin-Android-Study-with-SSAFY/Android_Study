@@ -54,7 +54,7 @@ fun main() {
 1. [Navigation Component 활용](https://carbonated-raptorex-0ab.notion.site/3-1-Navigation-Component-1aa446854ab980d78015e9e0acb17575) **(김성민)**
 2. Paging3 **(박성준)**
 3. [ViewModel 활용 및 Lifecycle 관리](https://superohinsung.tistory.com/393) **(오인성)**
-4. WorkManager 활용 **(박승준)**
+4. [WorkManager 활용](https://lean-share-b37.notion.site/WorkManager-1acc13dbbe2c80a3991acab2cfbd0c10?pvs=4) **(박승준)**
 
 ### **4주차 : 네트워크 & API 통신 (2025.03.12)**
 1. Ktor & Retrofit2 & OkHttp 기본 개념 및 활용

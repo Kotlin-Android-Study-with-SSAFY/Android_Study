@@ -52,7 +52,7 @@ fun main() {
 
 ### **3주차 : Jetpack 라이브러리 심화 (2025.03.05)**
 1. [Navigation Component 활용](https://carbonated-raptorex-0ab.notion.site/3-1-Navigation-Component-1aa446854ab980d78015e9e0acb17575) **(김성민)**
-2. Paging3 **(박성준)**
+2. [Paging3](https://quartz-durian-a00.notion.site/Paging3-1ad7ecadafa180f2a220e69325793a55?pvs=4) **(박성준)**
 3. [ViewModel 활용 및 Lifecycle 관리](https://superohinsung.tistory.com/393) **(오인성)**
 4. WorkManager 활용 **(박승준)**
 
